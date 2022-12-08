@@ -1,3 +1,6 @@
+# !!! Not maintained anymore !!!
+Since I do not use Homebridge and Domoticz anymore, this module is not maintained. Feel free to fork it and make the changes you need.
+
 # homebridge-security-domoticz
 
 [![npm](https://img.shields.io/npm/v/homebridge-security-domoticz.svg)](https://www.npmjs.com/package/homebridge-security-domoticz) [![npm](https://img.shields.io/npm/dt/homebridge-security-domoticz.svg)](https://www.npmjs.com/package/homebridge-security-domoticz)
